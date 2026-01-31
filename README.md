@@ -46,4 +46,4 @@ A LongForm 3D game using Lens Studio
 This project is created for the Snap Lensathon.
 
 ---
-*Created by [Your Name]*
+*Created by OLOA HALLAN*
